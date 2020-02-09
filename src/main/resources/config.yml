@@ -1,0 +1,3 @@
+messages:
+  too-many-regions: "&7このワールドでは %max-count% 個までしか保護を作れません。"
+  too-large-region: "&7このワールドでは保護の大きさは %max-volume% までです。"
